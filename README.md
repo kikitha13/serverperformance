@@ -1,5 +1,5 @@
 # Server Performance Status (Ubuntu)
----
+
 
 A simple Bash script (serverstatus.sh) that prints a quick health report of your Linux server
 
@@ -38,9 +38,9 @@ Top 5 processes by CPU consumption
 Top 5 processes by Memory consumption
 
 ### User Information
-Currently logged-in users
 
-Last 10 failed login attempts (helpful for detecting brute-force attempts)
+Currently logged-in users
+Last 10 failed login attempts
 ---
 
 ## Why is it useful?
@@ -57,13 +57,14 @@ Lightweight: just Bash + existing Linux commands (top, free, df, ps, etc.)
 ---
 ## how to excute this project ?
 1. Open a new file with vim
-vim server_status.sh
+  vim server_status.sh
 2.write the script and save it.
 3.Make the script executable
 chmod +x server_status.sh
 4.Run the script
 ./server_status.sh
 <img width="1913" height="844" alt="Screenshot 2025-09-04 181810" src="https://github.com/user-attachments/assets/499537b0-8f26-414a-99c8-6bb2cfd8065d" />
+
 ---
 The Server Performance Status Script is a simple yet effective way to monitor server health in real time.
 It provides key insights into CPU, memory, disk usage, processes, and user activity — all with a single command.
