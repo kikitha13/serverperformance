@@ -1,4 +1,5 @@
-#Server Performance Status (Ubuntu)
+# Server Performance Status (Ubuntu)
+---
 
 A simple Bash script (serverstatus.sh) that prints a quick health report of your Linux server
 
@@ -70,9 +71,4 @@ It provides key insights into CPU, memory, disk usage, processes, and user activ
 
 
 
-
-
-
-Currently logged-in users
-
-Last 10 failed login attempts (helpful for detecting brute-force attempts)
+---
