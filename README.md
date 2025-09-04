@@ -56,12 +56,12 @@ Can be scheduled with cron to keep logs of server activity over time
 Lightweight: just Bash + existing Linux commands (top, free, df, ps, etc.)
 ---
 ## how to excute this project ?
-1. Open a new file with vim
-  vim server_status.sh
-2.write the script and save it.
-3.Make the script executable
-chmod +x server_status.sh
-4.Run the script
+1. Open a new file with **vim**  
+   vim server_status.sh
+2. Write the script inside the file and save it
+3. Make the script executable
+ chmod +x server_status.sh
+4. Run the script
 ./server_status.sh
 <img width="1913" height="844" alt="Screenshot 2025-09-04 181810" src="https://github.com/user-attachments/assets/499537b0-8f26-414a-99c8-6bb2cfd8065d" />
 
