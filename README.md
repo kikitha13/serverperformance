@@ -1,5 +1,5 @@
 # Server Performance Status (Ubuntu)
-### PROJECT URL:https://github.com/kikitha13/serverperformance
+### PROJECT URL:https://roadmap.sh/projects/server-stats
 
 A simple Bash script (serverstatus.sh) that prints a quick health report of your Linux server
 
